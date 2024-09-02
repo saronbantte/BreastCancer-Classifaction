@@ -1,7 +1,8 @@
-# BreastCancer-Classifaction
+# BreastCancer-Classification
 
 Project Overview
-This project involves the classification of breast cancer diagnoses using a machine learning model. The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) dataset, which contains features computed from breast cancer cell images. The goal is to classify whether a tumor is malignant or benign based on these features.
+
+This project involves the classification of breast cancer diagnoses using a machine-learning model. The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) dataset, which contains features computed from breast cancer cell images. Based on these features, the goal is to classify whether a tumor is malignant or benign.
 
 Project Description
 This project aims to build a predictive model to classify breast cancer tumors as malignant or benign using the Breast Cancer Wisconsin (Diagnostic) dataset. The project involves:
@@ -18,11 +19,11 @@ Data Description
 Features: 30 numerical features computed from breast cancer cell images
 Target: Diagnosis label (1 for malignant, 0 for benign)
 
-numpy
+NumPy
 pandas
 matplotlib
 seaborn
-scikit-learn
+sci-kit-learn
 
 
 Results
